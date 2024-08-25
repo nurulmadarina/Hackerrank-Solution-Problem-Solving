@@ -1,4 +1,9 @@
-public class Solution {
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class SolutionCatAndMouse {
 
     // Complete the catAndMouse function below.
     static String catAndMouse(int x, int y, int z) {

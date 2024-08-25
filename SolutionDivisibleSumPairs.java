@@ -1,4 +1,9 @@
-public class Solution {
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class SolutionDivisibleSumPairs {
 
     // Complete the divisibleSumPairs function below.
     static int divisibleSumPairs(int n, int k, int[] ar) {
